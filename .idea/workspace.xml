@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67f4203d-b07c-4459-a51b-acf5cac2620c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cBXrAjdjO93MBB35a9jFNaeBY1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Herredity/Hereditty" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BigNumber">
+    <configuration name="BigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ap.project.number.BigNumber" />
+      <module name="BigNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ap.project.number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="BigNumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyCalculator" />
+      <module name="BigNumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BigNumber" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.MyCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67f4203d-b07c-4459-a51b-acf5cac2620c" name="Default Changelist" comment="" />
+      <created>1590003157264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590003157264</updated>
+      <workItem from="1590003160805" duration="2426000" />
+      <workItem from="1590074132834" duration="674000" />
+      <workItem from="1590075134835" duration="33000" />
+      <workItem from="1590094998781" duration="1020000" />
+      <workItem from="1590140028889" duration="1975000" />
+      <workItem from="1590152001846" duration="7000" />
+      <workItem from="1590179772475" duration="2865000" />
+      <workItem from="1590427403548" duration="156000" />
+      <workItem from="1590589944878" duration="18000" />
+      <workItem from="1591725844294" duration="3745000" />
+      <workItem from="1591729667188" duration="105000" />
+      <workItem from="1591827661682" duration="14000" />
+      <workItem from="1592849356747" duration="8650000" />
+      <workItem from="1592905523852" duration="9057000" />
+      <workItem from="1592931459950" duration="9289000" />
+      <workItem from="1592943873905" duration="3440000" />
+      <workItem from="1592948079100" duration="117000" />
+      <workItem from="1592949674093" duration="1951000" />
+      <workItem from="1592951873485" duration="8000" />
+      <workItem from="1592987061412" duration="4691000" />
+      <workItem from="1593016369861" duration="3814000" />
+      <workItem from="1593028686573" duration="6066000" />
+      <workItem from="1593036497263" duration="348000" />
+      <workItem from="1593088868717" duration="3411000" />
+      <workItem from="1593120914233" duration="83000" />
+      <workItem from="1593121748590" duration="6000" />
+      <workItem from="1593161453035" duration="761000" />
+      <workItem from="1593173561537" duration="4781000" />
+      <workItem from="1593179809514" duration="688000" />
+      <workItem from="1593239354013" duration="422000" />
+      <workItem from="1593245981741" duration="8602000" />
+      <workItem from="1593267144557" duration="837000" />
+      <workItem from="1593268760692" duration="2926000" />
+      <workItem from="1593272162637" duration="3490000" />
+      <workItem from="1593275675704" duration="449000" />
+      <workItem from="1593276752605" duration="2147000" />
+      <workItem from="1593278963160" duration="108000" />
+      <workItem from="1593280032967" duration="6299000" />
+      <workItem from="1593294592820" duration="8000" />
+      <workItem from="1593371002610" duration="1089000" />
+      <workItem from="1593376459865" duration="100000" />
+      <workItem from="1593376683265" duration="416000" />
+      <workItem from="1593378880086" duration="6800000" />
+      <workItem from="1593415613483" duration="11000" />
+      <workItem from="1593418676191" duration="4306000" />
+      <workItem from="1593425895479" duration="26000" />
+      <workItem from="1593441583916" duration="408000" />
+      <workItem from="1593442401392" duration="1925000" />
+      <workItem from="1593444582757" duration="174000" />
+      <workItem from="1593444802793" duration="9318000" />
+      <workItem from="1593454205137" duration="2003000" />
+      <workItem from="1593459916977" duration="1114000" />
+      <workItem from="1593462338915" duration="6402000" />
+      <workItem from="1593502599668" duration="7641000" />
+      <workItem from="1593525850445" duration="3006000" />
+      <workItem from="1593529194711" duration="9105000" />
+      <workItem from="1593539385243" duration="2071000" />
+      <workItem from="1593541752840" duration="16000" />
+      <workItem from="1593887159873" duration="4032000" />
+      <workItem from="1593932687372" duration="7401000" />
+      <workItem from="1594198365860" duration="12100000" />
+      <workItem from="1594322064358" duration="41000" />
+      <workItem from="1595534561724" duration="5817000" />
+      <workItem from="1595578057472" duration="11543000" />
+      <workItem from="1595599976233" duration="1545000" />
+      <workItem from="1595605127477" duration="2392000" />
+      <workItem from="1595622800718" duration="93000" />
+      <workItem from="1595836153827" duration="4470000" />
+      <workItem from="1595880218650" duration="1281000" />
+      <workItem from="1595954257778" duration="18111000" />
+      <workItem from="1596009345847" duration="5477000" />
+      <workItem from="1596306823497" duration="4000" />
+      <workItem from="1596306937153" duration="6000" />
+      <workItem from="1596306982962" duration="29000" />
+      <workItem from="1596307044571" duration="9000" />
+      <workItem from="1596309084066" duration="2324000" />
+      <workItem from="1596386586978" duration="3884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ap/project/number/BigNumber.java</url>
+          <line>487</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BigNumber$BigNumber.ic" NAME="BigNumber Coverage Results" MODIFIED="1593534151920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ap.project.number.*</FILTER>
+    </SUITE>
+  </component>
+</project>
